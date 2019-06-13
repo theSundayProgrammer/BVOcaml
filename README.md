@@ -1,11 +1,10 @@
-# Ocaml Graphics
-## What is it good for 
+# Ocaml Graphics -- What is it good for 
 
-**The graphics library ... built into OCaml ... is more useful as a learning tool than anything else**
+__The graphics library ... built into OCaml ... is more useful as a learning tool than anything else__
 
 -from 'Real World OCaml' by Yaron Minsky, Anil Madhavapeddy & Jason Hickey
 
-### Simple Graphics
+### A Quit Introduction
 The graphics library that comes with OCaml is of limited use but very simple. Here is ten minute tutorial using an example.
 Consider the following code to display a box:
 
